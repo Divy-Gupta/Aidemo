@@ -15,20 +15,14 @@ This tool helps you sharpen your interview skills through domain-based and job-s
 > Please check back later or star the repository to stay updated!
 
 ---
-
 ## 📸 Demo Screenshots
 
-### 🏁 Landing Page
-![Landing Page](https://github.com/Divy-Gupta/Aidemo/assets/insert-image-id-or-path-here)
+<h3>🏁 Landing Page</h3>
+<img src="assets/landing-page.png" alt="Landing Page" width="600" height="350">
 
-### 🎥 AI-Powered Interview Session
-![Interview Session](https://github.com/Divy-Gupta/Aidemo/assets/insert-image-id-or-path-here)
+<h3>🎥 AI-Powered Interview Session</h3>
+<img src="assets/Interview-session.png" alt="Interview Session" width="600" height="350">
 
-Or use these (uploaded) screenshots:
-
-![AI Interview Coach - Screenshot 1](https://raw.githubusercontent.com/Divy-Gupta/Aidemo/main/assets/Screenshot%20(44).png)
-
-![AI Interview Coach - Screenshot 2](https://raw.githubusercontent.com/Divy-Gupta/Aidemo/main/assets/Untitled%20design.png)
 
 ---
 
